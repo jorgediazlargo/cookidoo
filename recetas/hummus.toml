@@ -1,0 +1,32 @@
+nombre = "Hummus clásico"
+descripcion = "Crema de garbanzos con tahini, limón y comino, lista en 5 minutos."
+raciones = 4
+tiempo_preparacion = 5   # minutos
+tiempo_total = 5
+dificultad = "Fácil"
+categoria = "Entrantes"
+cocina = "Mediterránea"
+etiquetas = ["vegano", "sin gluten", "rápido"]
+fecha = 2026-11-12
+# imagen = "img/hummus.jpg"   # opcional: fichero en recetas/img/ o URL absoluta
+
+ingredientes = [
+  "1 diente de ajo",
+  "400 g de garbanzos cocidos, escurridos",
+  "60 g de tahini",
+  "40 g de zumo de limón",
+  "40 g de agua fría",
+  "30 g de aceite de oliva virgen extra, y un poco más para servir",
+  "1 cdta de sal",
+  "½ cdta de comino molido",
+  "pimentón dulce para servir",
+]
+
+pasos = [
+  "Ponga el ajo en el vaso y trocee 3 seg/vel 7. Con la espátula, baje los restos hacia el fondo del vaso.",
+  "Añada los garbanzos, el tahini, el zumo de limón, el agua, el aceite, la sal y el comino. Triture 1 min/vel 5.",
+  "Baje los restos con la espátula y triture de nuevo 30 seg/vel 7 hasta obtener una crema fina. Si queda muy espesa, añada 1-2 cucharadas de agua y triture 10 seg/vel 5.",
+  "Sirva en un plato hondo con un chorrito de aceite y una pizca de pimentón.",
+]
+
+notas = "Se conserva 4 días en la nevera en un recipiente hermético."
