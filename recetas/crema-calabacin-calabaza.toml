@@ -1,5 +1,5 @@
 nombre = "Crema de calabacín y calabaza"
-descripcion = "Crema suave y ligeramente dulce: la calabaza aporta cuerpo y color, el calabacín ligereza. Sin patata ni nata."
+descripcion = "Crema suave y ligeramente dulce: la calabaza aporta cuerpo y color, el calabacín ligereza y el queso cottage cremosidad. Sin patata ni nata."
 raciones = 4
 tiempo_preparacion = 10   # minutos
 tiempo_coccion = 27
@@ -21,7 +21,7 @@ ingredientes = [
   "1 ½ cdta de sal",
   "1 pizca de pimienta molida",
   "1 pizca de nuez moscada molida",
-  "2 quesitos en porciones (opcional, para una textura más cremosa)",
+  "100 g de queso cottage",
   "pipas de calabaza tostadas para servir",
 ]
 
@@ -29,9 +29,9 @@ pasos = [
   "Ponga en el vaso la cebolla y el ajo y trocee 5 seg/vel 5. Con la espátula, baje los restos hacia el fondo del vaso.",
   "Añada el aceite y sofría 5 min/120°C/vel 1 sin cubilete.",
   "Añada el calabacín, la calabaza, el agua y la sal. Cueza 22 min/100°C/vel 1.",
-  "Añada la pimienta, la nuez moscada y los quesitos. Ponga el cubilete y triture 1 min/vel 5-10 progresivamente.",
-  "Pruebe y rectifique de sal. Si la quiere más ligera, añada un poco de agua caliente y mezcle 10 seg/vel 4.",
+  "Añada la pimienta, la nuez moscada y el queso cottage. Ponga el cubilete y triture 1 min/vel 5-10 progresivamente.",
+  "Pruebe y rectifique de sal (el cottage ya aporta algo de sal). Si la quiere más ligera, añada un poco de agua caliente y mezcle 10 seg/vel 4.",
   "Sirva caliente con un hilo de aceite y unas pipas de calabaza por encima.",
 ]
 
-notas = "El calabacín suelta mucha agua, por eso lleva poco líquido. Pelarlo a medias mantiene el color anaranjado; sin pelar queda más verdosa y con más sabor a calabacín. Se conserva 3 días en la nevera y se congela bien (sin los quesitos). En el TM5, sofría 5 min/Varoma/vel 1."
+notas = "El calabacín suelta mucha agua, por eso lleva poco líquido. Pelarlo a medias mantiene el color anaranjado; sin pelar queda más verdosa y con más sabor a calabacín. Una vez añadido el cottage no la deje hervir, o puede cortarse: recaliéntela a 80 °C como máximo. Se conserva 3 días en la nevera; para congelarla, hágalo antes de añadir el cottage y añádalo al recalentar, triturando 30 seg/vel 7. En el TM5, sofría 5 min/Varoma/vel 1."

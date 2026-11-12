@@ -1,0 +1,43 @@
+nombre = "Puré de calabacín aterciopelado con albahaca"
+descripcion = "Puré verde y suave con puerro pochado, albahaca y queso cottage. Gusta a los niños y no lleva nata."
+raciones = 4
+tiempo_preparacion = 10   # minutos
+tiempo_coccion = 24
+tiempo_total = 35
+dificultad = "Fácil"
+categoria = "Sopas y cremas"
+cocina = "Española"
+etiquetas = ["verdura", "niños", "sin gluten", "congelable"]
+fecha = 2026-11-12
+cookidoo_id = "01M78B33QM32EBQ48E6QPDZZXC"
+
+ingredientes = [
+  "100 g de puerro (solo la parte blanca), en rodajas",
+  "1 diente de ajo pequeño, sin el germen",
+  "25 g de aceite de oliva virgen extra",
+  "800 g de calabacín, pelado a rayas y en trozos de 3 cm",
+  "150 g de patata, en trozos de 2 cm",
+  "200 g de agua o caldo de verduras",
+  "¾ cdta de sal",
+  "100 g de queso cottage",
+  "6 hojas de albahaca fresca",
+  "1 pizca de pimienta blanca molida",
+  "1 cdta de zumo de limón",
+  "20 g de aceite de oliva virgen extra, en crudo",
+  "aceite de oliva virgen extra",
+  "picatostes o pipas de calabaza tostadas",
+]
+
+pasos = [
+  "Ponga en el vaso el puerro y el ajo y trocee 4 seg/vel 5. Con la espátula, baje los restos hacia el fondo del vaso.",
+  "Añada 25 g de aceite y sofría 6 min/120°C/vel 1 sin cubilete, hasta que el puerro esté tierno y dulce.",
+  "Añada el calabacín, la patata, el agua y la sal. Cueza 18 min/100°C/vel 1.",
+  "Añada el queso cottage, la albahaca, la pimienta, el zumo de limón y 20 g de aceite en crudo. Ponga el cubilete y triture 1 min/vel 5-10 progresivamente.",
+  "Pruebe y rectifique de sal (el cottage ya aporta algo de sal). Si lo quiere más ligero, añada un poco de agua caliente y mezcle 10 seg/vel 4.",
+  "Sirva caliente con un hilo de aceite y unos picatostes o pipas por encima.",
+]
+
+notas = """Los trucos del «wow»: el puerro pochado aporta dulzor (por eso gusta a los niños), el queso cottage da cremosidad y proteína sin nata, la patata y el aceite crudo triturado a fondo dan la textura aterciopelada, y el limón aviva el sabor y el verde. El calabacín suelta mucha agua: no añada más líquido al principio. Pelarlo a rayas y no pasarse de cocción mantiene el color verde brillante; para niños muy reacios a «lo verde», pélelo entero y queda más claro y suave.
+Una vez añadido el cottage no lo deje hervir, o puede cortarse: recaliéntelo a 80 °C como máximo.
+Para bebés, sin sal ni queso. Versión vegana: cambie el cottage por 30 g de anacardos crudos (tritúrelos con el resto en el paso 4).
+Se conserva 3 días en la nevera. Para congelarlo, hágalo antes de añadir el cottage y añádalo al recalentar, triturando 30 seg/vel 7. En el TM5, sofría 6 min/Varoma/vel 1."""
