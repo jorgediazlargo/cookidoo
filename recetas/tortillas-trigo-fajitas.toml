@@ -1,0 +1,33 @@
+nombre = "Tortillas de trigo para fajitas"
+descripcion = "Tortillas de harina tiernas y flexibles, hechas en casa en media hora."
+raciones = 10   # tortillas de unos 20 cm
+tiempo_preparacion = 20   # minutos
+tiempo_coccion = 15
+tiempo_total = 75   # incluye 40 min de reposo
+dificultad = "Fácil"
+categoria = "Panes y masas"
+cocina = "Mexicana"
+etiquetas = ["fajitas", "tortillas", "masa", "vegano"]
+fecha = 2026-11-12
+
+ingredientes = [
+  "170 g de agua",
+  "50 g de aceite de oliva suave o de girasol",
+  "300 g de harina de trigo, y un poco más para estirar",
+  "6 g de sal",
+  "4 g de levadura química en polvo (tipo Royal)",
+]
+
+pasos = [
+  "Ponga en el vaso el agua y el aceite y temple 2 min/50°C/vel 1.",
+  "Añada la harina, la sal y la levadura química. Mezcle 10 seg/vel 6 y después Amasar 1 min 30 seg.",
+  "Saque la masa sobre la encimera, forme una bola, tápela con un paño o film y déjela reposar 30 min a temperatura ambiente.",
+  "Divida la masa en 10 porciones de unos 50 g, forme bolitas y déjelas reposar tapadas 10 min más.",
+  "Enharine ligeramente la encimera y estire cada bolita con el rodillo hasta obtener un disco muy fino de unos 20 cm. Vaya apilándolas separadas con papel de horno.",
+  "Caliente una sartén o plancha sin aceite a fuego medio-alto. Cocine cada tortilla 30-40 seg, hasta que salgan burbujas, dele la vuelta y cocine 20-30 seg más, hasta que tenga algunas manchas doradas.",
+  "Guarde las tortillas recién hechas apiladas y envueltas en un paño limpio para que el vapor las mantenga blandas.",
+]
+
+notas = """Si la masa encoge al estirarla, déjela reposar 5 min más. No las cocine demasiado o quedarán rígidas.
+Se conservan 2 días en una bolsa cerrada; recaliéntelas 10 seg por lado en la sartén. Se congelan bien separadas con papel de horno.
+Variante integral: sustituya 100 g de harina por harina integral y añada 10 g más de agua."""

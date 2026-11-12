@@ -8,7 +8,7 @@ categoria = "Entrantes"
 cocina = "Mediterránea"
 etiquetas = ["vegano", "sin gluten", "rápido"]
 fecha = 2026-11-12
-# imagen = "img/hummus.jpg"   # opcional: fichero en recetas/img/ o URL absoluta
+# imagen = "img/hummus.jpg"   # opcional, cuadrada 1:1: fichero en recetas/img/ o URL absoluta
 
 ingredientes = [
   "1 diente de ajo",

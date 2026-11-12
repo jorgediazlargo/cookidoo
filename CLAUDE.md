@@ -49,6 +49,8 @@ Copia `recetas/hummus.toml` como plantilla. Campos:
 - Opcionales: `descripcion`, `tiempo_preparacion`, `tiempo_coccion`,
   `dificultad`, `categoria`, `cocina`, `etiquetas`, `fecha`, `cookidoo_id`, `imagen`
   (`img/x.jpg` dentro de `recetas/img/`, o URL absoluta), `notas`, `slug`.
+- `imagen`: **siempre cuadrada 1:1** (p. ej. 1024×1024 o 1080×1080). Jorge las
+  genera con ChatGPT: al darle el prompt, pide explícitamente formato cuadrado 1:1.
 - `ingredientes` admite secciones: `{ titulo = "Para la masa", items = [...] }`
   (en el JSON-LD se aplanan: Cookidoo no lee secciones).
 
