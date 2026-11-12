@@ -1,0 +1,36 @@
+nombre = "Crema de calabacín y calabaza"
+descripcion = "Crema suave y ligeramente dulce: la calabaza aporta cuerpo y color, el calabacín ligereza. Sin patata ni nata."
+raciones = 4
+tiempo_preparacion = 10   # minutos
+tiempo_coccion = 27
+tiempo_total = 40
+dificultad = "Fácil"
+categoria = "Sopas y cremas"
+cocina = "Española"
+etiquetas = ["verdura", "sin gluten", "aprovechamiento", "congelable"]
+fecha = 2026-11-12
+
+ingredientes = [
+  "120 g de cebolla, en cuartos",
+  "1 diente de ajo",
+  "30 g de aceite de oliva virgen extra, y un poco más para servir",
+  "550 g de calabacín, pelado a medias y en trozos de 3 cm",
+  "400 g de calabaza pelada y sin pepitas, en trozos de 3 cm",
+  "300 g de agua o caldo de verduras",
+  "1 ½ cdta de sal",
+  "1 pizca de pimienta molida",
+  "1 pizca de nuez moscada molida",
+  "2 quesitos en porciones (opcional, para una textura más cremosa)",
+  "pipas de calabaza tostadas para servir",
+]
+
+pasos = [
+  "Ponga en el vaso la cebolla y el ajo y trocee 5 seg/vel 5. Con la espátula, baje los restos hacia el fondo del vaso.",
+  "Añada el aceite y sofría 5 min/120°C/vel 1 sin cubilete.",
+  "Añada el calabacín, la calabaza, el agua y la sal. Cueza 22 min/100°C/vel 1.",
+  "Añada la pimienta, la nuez moscada y los quesitos. Ponga el cubilete y triture 1 min/vel 5-10 progresivamente.",
+  "Pruebe y rectifique de sal. Si la quiere más ligera, añada un poco de agua caliente y mezcle 10 seg/vel 4.",
+  "Sirva caliente con un hilo de aceite y unas pipas de calabaza por encima.",
+]
+
+notas = "El calabacín suelta mucha agua, por eso lleva poco líquido. Pelarlo a medias mantiene el color anaranjado; sin pelar queda más verdosa y con más sabor a calabacín. Se conserva 3 días en la nevera y se congela bien (sin los quesitos). En el TM5, sofría 5 min/Varoma/vel 1."
