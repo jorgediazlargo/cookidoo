@@ -1,0 +1,47 @@
+nombre = "Puré de calabacín aterciopelado con parmesano y albahaca"
+descripcion = "El puré de calabacín que gusta a todos, niños incluidos: verde brillante, suave como una crema y con un sabor redondo gracias al puerro pochado, un toque de parmesano y aceite crudo emulsionado. Sin nata ni mantequilla."
+raciones = 4
+tiempo_preparacion = 10   # minutos
+tiempo_coccion = 26
+tiempo_total = 35
+dificultad = "Fácil"
+categoria = "Sopas y cremas"
+cocina = "Mediterránea"
+etiquetas = ["verdura", "sin gluten", "vegetariana", "niños", "congelable"]
+fecha = 2026-11-12
+cookidoo_id = "01M78B33QM32EBQ48E6QPDZZXC"   # receta creada en Cookidoo (se actualiza con PATCH)
+
+ingredientes = [
+  { titulo = "Para el puré", items = [
+    "30 g de queso parmesano en trozos",
+    "100 g de puerro (solo la parte blanca), en rodajas",
+    "1 diente de ajo pequeño, sin el germen",
+    "25 g de aceite de oliva virgen extra",
+    "800 g de calabacín, pelado a rayas y en trozos de 3 cm",
+    "150 g de patata, en trozos de 2 cm",
+    "200 g de agua o caldo de verduras",
+    "1 cdta de sal",
+    "6 hojas de albahaca fresca",
+    "1 pizca de pimienta blanca molida",
+    "1 cdta de zumo de limón",
+    "20 g de aceite de oliva virgen extra, en crudo",
+  ] },
+  { titulo = "Para servir", items = [
+    "aceite de oliva virgen extra",
+    "picatostes o pipas de calabaza tostadas",
+  ] },
+]
+
+pasos = [
+  "Ponga el parmesano en el vaso y ralle 10 seg/vel 10. Retírelo y resérvelo.",
+  "Ponga en el vaso el puerro y el ajo y trocee 4 seg/vel 5. Con la espátula, baje los restos hacia el fondo del vaso.",
+  "Añada 25 g de aceite y sofría 6 min/120°C/vel 1 sin cubilete, hasta que el puerro esté tierno y dulce.",
+  "Añada el calabacín, la patata, el agua y la sal. Cueza 18 min/100°C/vel 1.",
+  "Añada el parmesano reservado (deje un poco para servir), la albahaca, la pimienta, el zumo de limón y 20 g de aceite en crudo. Ponga el cubilete y triture 1 min/vel 5-10 progresivamente.",
+  "Pruebe y rectifique de sal. Si lo quiere más ligero, añada un poco de agua caliente y mezcle 10 seg/vel 4.",
+  "Sirva caliente con un hilo de aceite, el parmesano restante y unos picatostes o pipas por encima.",
+]
+
+notas = """Los trucos del «wow»: el puerro pochado aporta dulzor (por eso gusta a los niños), el parmesano da sabor profundo sin nata, la patata y el aceite crudo triturado a fondo dan la textura aterciopelada, y el limón aviva el sabor y el verde. El calabacín suelta mucha agua: no añada más líquido al principio. Pelarlo a rayas y no pasarse de cocción mantiene el color verde brillante; para niños muy reacios a «lo verde», pélelo entero y queda más claro y suave.
+Para bebés, sin sal ni parmesano. Versión vegana: cambie el parmesano por 30 g de anacardos crudos (tritúrelos con el resto en el paso 5).
+Se conserva 3 días en la nevera y se congela bien. En el TM5, sofría 6 min/Varoma/vel 1."""
