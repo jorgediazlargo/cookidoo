@@ -9,6 +9,7 @@ categoria = "Panes y masas"
 cocina = "Mexicana"
 etiquetas = ["fajitas", "tortillas", "masa", "vegano"]
 fecha = 2026-11-12
+cookidoo_id = "01M78BQAFSXR4Q5NEE4ECJ0VTW"
 
 ingredientes = [
   "170 g de agua",
