@@ -166,9 +166,9 @@ def render_receta(r: dict, base: str) -> str:
 {img}
 <h2>Ingredientes</h2>{ingr_html}
 <h2>Preparación</h2><ol>{pasos}</ol>
-{notas}
-<h2>Importar en Cookidoo</h2>
-<p class="url">{base}/{r['slug']}/</p>"""
+{notas}"""
+    if r.get("cookidoo_id"):
+        cuerpo += f'\n<p><a href="https://cookidoo.es/created-recipes/es-ES/{e(r["cookidoo_id"])}">Abrir en Cookidoo</a></p>'
     return pagina(r["nombre"], cuerpo, head)
 
 
@@ -180,7 +180,7 @@ def render_indice(recetas: list[dict], base: str) -> str:
         for r in sorted(recetas, key=lambda r: r["nombre"].lower())
     )
     cuerpo = f"""<h1>Recetas Thermomix</h1>
-<p class="mut">Abre una receta y pega su URL en Cookidoo para importarla.</p>
+<p class="mut">Recetas propias para Thermomix.</p>
 <ul class="lista">{items}</ul>"""
     return pagina("Recetas Thermomix", cuerpo)
 

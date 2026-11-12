@@ -9,6 +9,7 @@ categoria = "Sopas y cremas"
 cocina = "Española"
 etiquetas = ["verdura", "sin gluten", "aprovechamiento", "congelable"]
 fecha = 2026-11-12
+cookidoo_id = "01M78ASPRRZPV4T4G1RCBZM5SH"   # receta creada en Cookidoo (se actualiza con PATCH)
 
 ingredientes = [
   "120 g de cebolla, en cuartos",
