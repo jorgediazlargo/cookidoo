@@ -1,0 +1,43 @@
+nombre = "Galletas de avena, plátano y cacao sin azúcar"
+descripcion = "Galletas tiernas con bordes crujientes, endulzadas solo con plátano y dátiles. Sin mantequilla ni azúcar añadido, pensadas para niños."
+raciones = 24   # galletas de unos 5-6 cm
+tiempo_preparacion = 20   # minutos
+tiempo_coccion = 40   # 2 tandas de 18-20 min
+tiempo_total = 70   # incluye 10 min de reposo de la masa
+dificultad = "Fácil"
+categoria = "Repostería"
+cocina = "Española"
+etiquetas = ["niños", "sin azúcar añadido", "sin mantequilla", "vegetariana", "merienda"]
+fecha = 2026-11-19
+cookidoo_id = "01M7TDE66851BAY59RGMTW36WR"
+
+ingredientes = [
+  "60 g de dátiles en rama, deshuesados (aprox. 6 unidades)",
+  "170 g de copos de avena",
+  "150 g de plátano muy maduro, con motas negras (aprox. 2 unidades)",
+  "1 huevo",
+  "40 g de crema de cacahuete 100 % cacahuete",
+  "15 g de cacao puro en polvo",
+  "½ cucharadita de canela molida",
+  "1 cucharadita de extracto de vainilla puro (opcional)",
+  "1 pizca de sal",
+  "20 g de coco rallado",
+  "15 g de leche o agua (opcional)",
+]
+
+pasos = [
+  "Precaliente el horno a 170°C. Forre 2 bandejas de horno con papel de hornear y reserve.",
+  "Ponga en el vaso los dátiles y 80 g de copos de avena y triture 10 seg/vel 7. Baje los restos con la espátula.",
+  "Añada el plátano, el huevo, la crema de cacahuete, el cacao, la canela, la vainilla y la sal y mezcle 15 seg/vel 4. Baje los restos con la espátula. Si la masa queda muy dura, añada la leche y mezcle 5 seg/vel 4.",
+  "Añada el resto de los copos de avena (90 g) y el coco rallado y mezcle 15 seg/giro inverso/vel 3. Deje reposar la masa en el vaso 10 min para que la avena absorba el líquido.",
+  "Con 2 cucharillas, forme bolitas del tamaño de una nuez (aprox. 20 g) y colóquelas separadas en las bandejas preparadas. Ponga un papel de hornear encima y, con la base de un vaso, aplaste cada una hasta que tenga aprox. 4 mm de grosor y Ø 5-6 cm.",
+  "Hornee en 2 tandas durante 18-20 minutos (170°C), hasta que los bordes estén tostados.",
+  "Deje templar 5 min en la bandeja y después enfríe sobre una rejilla: al enfriarse se endurecen.",
+]
+
+notas = """Cuanto más finas, más crujientes. Si las quiere más secas, apague el horno y déjelas dentro 10 min con la puerta entreabierta.
+Con dátiles Medjool bastan 3-4 unidades. Si los dátiles están duros, remójelos 10 min en agua caliente y escúrralos.
+Revise las etiquetas: dátiles sin jarabe ni conservantes, crema de cacahuete solo de cacahuete y cacao 100 % (sin alcalinizar si quiere evitar el E501).
+Variante con chocolate: añada 40 g de chocolate negro 70 % troceado en el paso 4.
+Sin cacahuete: sustituya la crema de cacahuete por 25 g de aceite de oliva virgen extra suave.
+Conserve en una lata a temperatura ambiente 4-5 días, no en el frigorífico (se ablandan). Se congelan bien."""
