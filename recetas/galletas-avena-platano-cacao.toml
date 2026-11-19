@@ -3,7 +3,7 @@ descripcion = "Galletas tiernas con bordes crujientes, endulzadas solo con plát
 raciones = 24   # galletas de unos 5-6 cm
 tiempo_preparacion = 20   # minutos
 tiempo_coccion = 40   # 2 tandas de 18-20 min
-tiempo_total = 70   # incluye 10 min de reposo de la masa
+tiempo_total = 80   # incluye 20 min de reposo de la masa en frío
 dificultad = "Fácil"
 categoria = "Repostería"
 cocina = "Española"
@@ -26,18 +26,19 @@ ingredientes = [
 ]
 
 pasos = [
-  "Precaliente el horno a 170°C. Forre 2 bandejas de horno con papel de hornear y reserve.",
-  "Ponga en el vaso los dátiles y 80 g de copos de avena y triture 20 seg/vel 9, hasta que no se distingan trozos de dátil. Baje los restos con la espátula.",
-  "Añada el plátano, el huevo, la crema de cacahuete, el cacao, la canela, la vainilla y la sal y mezcle 15 seg/vel 4. Baje los restos con la espátula. Si la masa queda muy dura, añada la leche y mezcle 5 seg/vel 4.",
-  "Añada el resto de los copos de avena (90 g) y el coco rallado y mezcle 15 seg/giro inverso/vel 3. Deje reposar la masa en el vaso 10 min para que la avena absorba el líquido.",
-  "Con 2 cucharillas, forme bolitas del tamaño de una nuez (aprox. 20 g) y colóquelas separadas en las bandejas preparadas. Ponga un papel de hornear encima y, con la base de un vaso, aplaste cada una hasta que tenga aprox. 4 mm de grosor y Ø 5-6 cm.",
-  "Hornee en 2 tandas durante 18-20 minutos (170°C), hasta que los bordes estén tostados.",
-  "Deje templar 5 min en la bandeja y después enfríe sobre una rejilla: al enfriarse se endurecen.",
+  "Ponga en el vaso los dátiles y 120 g de copos de avena y triture 20 seg/vel 9, hasta que no se distingan trozos de dátil. Baje los restos con la espátula.",
+  "Añada el plátano, el huevo, la crema de cacahuete, el cacao, la canela, la vainilla y la sal y mezcle 15 seg/vel 4. Baje los restos con la espátula. Solo si la masa queda tan dura que no se mezcla, añada la leche y mezcle 5 seg/vel 4.",
+  "Añada el resto de los copos de avena (50 g) y el coco rallado y mezcle 5 seg/vel 5, para que los copos queden partidos pero con algo de textura.",
+  "Pase la masa a un bol, tápela y déjela reposar 20 min en el frigorífico: la avena absorbe la humedad y la masa deja de pegarse. Mientras, precaliente el horno a 170°C y forre 2 bandejas de horno con papel de hornear.",
+  "Con las manos humedecidas, forme bolitas del tamaño de una nuez (aprox. 20 g) y colóquelas separadas en las bandejas preparadas. Aplaste cada una con la base de un vaso untada con unas gotas de aceite (o mojada en agua) hasta que tenga aprox. 4 mm de grosor y Ø 5-6 cm.",
+  "Hornee en 2 tandas durante 18-20 minutos (170°C), o las 2 bandejas a la vez con aire caliente (160°C, alturas 1 y 3) durante 20-22 minutos, hasta que los bordes estén tostados.",
+  "Deje templar 5 min en la bandeja y después enfríe sobre una rejilla: al enfriarse se endurecen. Si alguna se resiste, despegue el papel de la galleta y no al revés.",
 ]
 
 notas = """Cuanto más finas, más crujientes. Si las quiere más secas, apague el horno y déjelas dentro 10 min con la puerta entreabierta.
 Con dátiles Medjool bastan 3-4 unidades. Si los dátiles están duros, remójelos 10 min en agua caliente y escúrralos: así se trituran del todo y no se notan.
 Revise las etiquetas: dátiles sin jarabe ni conservantes, crema de cacahuete solo de cacahuete y cacao 100 % (sin alcalinizar si quiere evitar el E501).
-Variante con chocolate: añada 40 g de chocolate negro 70 % troceado en el paso 4.
+Si la masa sigue muy pegajosa tras el reposo, añada 20 g más de copos de avena y mezcle 5 seg/vel 4.
+Variante con chocolate: añada 40 g de chocolate negro 70 % troceado al final del paso 3 y mezcle 10 seg/giro inverso/vel 2 para no triturarlo.
 Sin cacahuete: sustituya la crema de cacahuete por 25 g de aceite de oliva virgen extra suave.
 Conserve en una lata a temperatura ambiente 4-5 días, no en el frigorífico (se ablandan). Se congelan bien."""
